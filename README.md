@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A simple **command-line Expense Tracker** built with Python.
+A simple **c Expense Tracker** built with Python.
 
 The program allows users to enter multiple expense amounts, calculates the **total amount spent**, and counts the **number of expenses entered**.
 
